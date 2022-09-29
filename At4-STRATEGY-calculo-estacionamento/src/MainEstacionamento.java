@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 class MainEstacionamento {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		
         Veiculo veiculo = new Veiculo("ABC-123",  "Chevrolet Onix", "Azul");
 		// Calculo do total a pagar por Hora
